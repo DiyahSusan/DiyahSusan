@@ -8,8 +8,15 @@ Welcome to my profile 🎉
   </a>
 </p>
 
-## Streak
+## 🔥Streak 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiyahSusan&theme=tokyonight&hide_border=true)
+
+## 📊 Most Used Languages
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyahSusan&layout=compact&theme=radical" alt="Most Used Languages"/>
+  </a>
+</p>
 
 ## Language and Tools
 <p align="left">
