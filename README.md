@@ -1,6 +1,13 @@
 ## Hi there, I'm Diyah Susan👋
 Welcome to my profile 🎉
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DiyahSusan&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 ## Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiyahSusan&theme=tokyonight&hide_border=true)
 
