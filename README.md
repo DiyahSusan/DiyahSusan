@@ -30,6 +30,18 @@ Welcome to my profile 🎉
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </p>
 
+## Let's connect
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://instagram.com/diyahsusann_" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/diyahsusan" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
+
+
 
 
 
